@@ -23,6 +23,6 @@ I'm excited to start this 100-day journey of coding and improving my skills as a
 
 <h1>Projects</h1>
 <h3>🎖Day-1 Background colour changer </br>
-🎖Day-2 Background colour changer
+🎖Day-2  RGB colour slider
 
 </h3>
